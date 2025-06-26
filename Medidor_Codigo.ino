@@ -2,11 +2,7 @@
 #include <LiquidCrystal.h> // Biblioteca para LCD sem módulo I2C
 #include <EmonLib.h>       // Biblioteca para medição de energia
 
-// Definições dos pinos do LCD para o Arduino (modo 4-bit)
-// LiquidCrystal(rs, en, d4, d5, d6, d7)
-// Suas ligações: RS(Pino 4 LCD) -> 9 Arduino, EN(Pino 6 LCD) -> 8 Arduino,
-// D4(Pino 11 LCD) -> 7 Arduino, D5(Pino 12 LCD) -> 6 Arduino,
-// D6(Pino 13 LCD) -> 5 Arduino, D7(Pino 14 LCD) -> 4 Arduino
+// Definições dos pinos do LCD para o Arduino
 LiquidCrystal lcd(9, 8, 7, 6, 5, 4); 
 
 // Definições para os pinos analógicos
@@ -21,7 +17,7 @@ const float TARIFA_BAIXA = 0.273866; // R$/kWh para corrente <= 30A
 const float TARIFA_ALTA = 0.469484;  // R$/kWh para corrente > 30A (assumindo a próxima faixa)
 
 // Variáveis para calibração 
-const float CALIBRACAO_TENSAO = 234.2; // Exemplo: ajustado para 127V AC (pode variar)
+const float CALIBRACAO_TENSAO = 230.0; // Exemplo: ajustado para 127V AC (pode variar)
 const float CALIBRACAO_CORRENTE = 60.6; // Exemplo: ajustado para SCT-013-000 100A/1V
 
 unsigned long tempoAnterior = 0;
