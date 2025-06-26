@@ -11,7 +11,7 @@ LiquidCrystal lcd(9, 8, 7, 6, 5, 4);
 
 // Definições para os pinos analógicos
 #define SENSOR_CORRENTE_PIN A3 // Saída do sensor de corrente ligada no A3
-#define SENSOR_TENSAO_PIN   A0 // Saída do sensor de tensão ligada no A2
+#define SENSOR_TENSAO_PIN   A2 // Saída do sensor de tensão ligada no A2
 
 // Instância da biblioteca EmonLib
 EnergyMonitor emon;
