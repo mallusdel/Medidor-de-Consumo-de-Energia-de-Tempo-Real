@@ -26,6 +26,8 @@
 https://github.com/user-attachments/assets/4c6b2501-8836-400a-bf2c-c23229b87a86
 
 ### AVALIAÇÃO DO CONSUMO - LÂMPADA: 
+https://github.com/user-attachments/assets/fd44e620-92ad-48e8-9ae9-14d0c559167a
+
 
 ### AVALIAÇÃO DO CONSUMO - PRANCHA CERÂMICA: 
 
