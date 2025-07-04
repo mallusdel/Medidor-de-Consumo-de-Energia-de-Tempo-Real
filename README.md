@@ -28,14 +28,18 @@ https://github.com/user-attachments/assets/4c6b2501-8836-400a-bf2c-c23229b87a86
 ### AVALIAÇÃO DO CONSUMO - LÂMPADA: 
 https://github.com/user-attachments/assets/fd44e620-92ad-48e8-9ae9-14d0c559167a
 
-
 ### AVALIAÇÃO DO CONSUMO - PRANCHA CERÂMICA: 
+https://github.com/user-attachments/assets/ffad75a0-2afd-4cf4-ba9f-bf324820389d
 
 ### AVALIAÇÃO DO CONSUMO - FERRO DE PASSAR: 
+https://github.com/user-attachments/assets/abbafbc7-e3c4-4033-8a3d-931177f6d78a
 
 ### SIMULAÇÃO - SECCIONAMENTO DE ENERGIA PARA RESIDÊNCIA:
+https://github.com/user-attachments/assets/8729bc90-e9a3-4c49-a2b4-2514b3a4cb0f
 
 ### SIMULAÇÃO - PARADA FORÇADA DO SISTEMA:
+https://github.com/user-attachments/assets/f60ea7c7-76ee-4263-a5e5-d96b72f882b0
+
 
 
 
