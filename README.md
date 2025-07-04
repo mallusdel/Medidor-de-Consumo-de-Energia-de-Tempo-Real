@@ -7,7 +7,7 @@
 ### INFORMAÇÕES ÚTEIS
 #### Na pasta <Medidor_Codigo.ino> pode ser acessado o código fonte utilizado para o desenvolvimento do medidor de consumo. Sua finalidade é a captação dos sinais de tensão e corrente enviados pelos sensores conectados na unidade consumidora (residencial) e realizar o processamento, com definição de tarefas rígidas e cíclicas, o processador armazena os dados, faz o primeiro processamento - Cálculo de Potência Ativa Instantânea, armazena novamente os dados internamente, realiza a próxima tarefa - Calculo da tarifa (de acordo com  a tarifa vigente da região - Manaus|Am), armazena os dados e imprime a informação em um display de LCD I2C - 16x2. 
 
-#### Na pasta <WCET_Codigo.ino> se encontra uma implementação no código fonte, cuja finalidade é a de exibir os WCETs (EWorst-Case Execution Time). Para tal, todo o sistema deve estar funcionando e o código após ser implementado no arduino, gera, no monitor serial da IDE do Arduino, os WCETs de cada atividade. 
+#### Na pasta <WCET_Codigo.ino> se encontra uma implementação no código fonte, cuja finalidade é a de exibir os WCETs (Worst-Case Execution Time). Para tal, todo o sistema deve estar funcionando e o código após ser compilado no arduino, gera no monitor serial da IDE do Arduino, os WCETs de cada atividade. 
 
 ### CIRCUITO DE LIGAÇÃO DO SISTEMA
 ![CKT1](https://github.com/user-attachments/assets/ed439e29-7d33-419c-85cf-571b5dbfeaeb)
