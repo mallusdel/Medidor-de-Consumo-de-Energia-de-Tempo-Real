@@ -1,5 +1,5 @@
 # Sistema de Monitoramento de Consumo de Energia e Custo em Tempo Real Utilizando Arduino
-#### Autores: Maria Lima (UFAM) | Rosilene Monteiro (UFAM)| Thiago Pinheiro (UFAM)
+#### Autores: Maria Lima (UFAM) | Rosilene Monteiro (UFAM) | Thiago Pinheiro (UFAM)
 
 ### APRESENTAÇÃO
 #### Este projeto contém os algorítimos utilizados para o desenvolvimento do medidor digital que exibe potência ativa e precificação de consumo de energia elétrica, bem como, o código para determinar o WCET de cada atividade realizada pelo processador do microcontrolador - Arduino Uno. 
